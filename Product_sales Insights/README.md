@@ -1,3 +1,8 @@
+## About this project
+
+
+# Insights
+
 ### Data Validation
 
 Dataset contains 15.000 rows and 8 columns, before cleaning and validation.
