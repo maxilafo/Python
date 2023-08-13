@@ -32,6 +32,7 @@ The most used sales method was the email, with almost 7.000 customers, followed 
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zQfdtDm/Image1.png" alt="Image1" border="0"></a>
 </p>
+
 ### What does the spread of the revenue look like?
 The spread of revenue is very varied, but we can identify two big groups of revenue, between the ranges 25-60 and more in usd 70-120 USD, and a smallest one in the range 160-190 usd.
 <p align="center">
