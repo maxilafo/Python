@@ -1,5 +1,14 @@
-## About this project
+I used Python to perform a data analysis to solve a business problem.
 
+The business problem is about a company who sells office products to large organizations.
+Goal is to answer the following questions:
+- How many customers were there for each approach?
+- What does the spread of the revenue look like overall? And for each method?
+- Was there any difference in revenue over time for each of the methods?
+- Based on the data, which method would is recommended to continue using?
+- Other findings
+
+Also, recommend business metrics and further actions.
 
 # Insights
 
